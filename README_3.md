@@ -106,4 +106,4 @@ These features of CBDC address the main weaknesses of traditional CVA:
 
 -- 
 
-How do we start? [*Read on… (link)*](./README_3.md)
+How do we start? [*Read on… (link)*](./README_4.md)
