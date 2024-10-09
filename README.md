@@ -45,7 +45,7 @@ The following explains how this approach works:
 
 ![Risk Transfer - Risk Sharing](./images/00%20Risk%20Transfer%20-%20Risk%20Sharing.png)
 
-This combination of decentralized finance, blockchain smart contracts, and AI enhances the reliability and scalability of risk-sharing systems.
+This combination of decentralized finance, blockchain smart contracts, Earth Observation and AI enhances the reliability and scalability of risk-sharing systems.
 
 ## The challenges
 Until recently, technical limitations made implementing these solutions impractical:
