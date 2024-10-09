@@ -81,7 +81,7 @@ The sequence of actions ensures the data ownership of the Person-In-Need is safe
 
 ## Use Case 3: Cash and Voucher Assistance (CVA)
 ###	Base use case
-The use of Central Bank Digital Currency (CBDC) in humanitarian Cash and Voucher Assistance (CVA) programs presents two primary challenges: (1) the complexity for recipients, many of whom are illiterate, and (2) the availability of CBDC. Once a country adopts CBDC, the Machu Picchu system helps overcome these barriers by enabling Persons-In-Need to access the blockchain via basic cellular phones, aided by local field helpers and Account Abstraction, simplifying the process.
+The use of Central Bank Digital Currency (CBDC) in humanitarian Cash and Voucher Assistance (CVA) programs presents two primary challenges: (1) the complexity for recipients, many of whom are illiterate, and (2) the unavailability of CBDC. Once a country adopts CBDC, the Machu Picchu system helps overcome these barriers by enabling Persons-In-Need to access the blockchain via basic cellular phones, aided by local field helpers and Account Abstraction, simplifying the process.
 
 CBDC offers several advantages over physical cash, depending on the country’s implementation:
 
