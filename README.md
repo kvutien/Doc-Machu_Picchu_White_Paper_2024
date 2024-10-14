@@ -58,3 +58,5 @@ Until recently, technical limitations made implementing these solutions impracti
 However, the landscape is changing. Cellular access is expanding, governments are rolling out Central Bank Digital Currencies (CBDCs), and open-source software libraries are available for integration into global solutions. Moreover, hardware manufacturers now provide low-cost single-board computers and solid-state drives that require less than $20 worth of electricity annually . 
 
 Project Machu Picchu capitalizes on these advancements to create accessible, modern solutions for persons-in-need.  [*Read on… (link)*](./README_2.md)
+
+--
