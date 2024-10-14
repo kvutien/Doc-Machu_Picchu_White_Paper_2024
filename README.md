@@ -59,4 +59,4 @@ However, the landscape is changing. Cellular access is expanding, governments ar
 
 Project Machu Picchu capitalizes on these advancements to create accessible, modern solutions for persons-in-need.  [*Read on… (link)*](./README_2.md)
 
---
+-
