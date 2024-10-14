@@ -25,7 +25,7 @@ Now comes the question "*How do we start?*"
 3. Main enabler: Mobile app
 4. Main enabler: Field deployment and Local NGO training
 
-We have to wait until the number of participating Persons in Need has grown to a significant population. The we introduce Risk Sharing and Mutual Financial Support.
+We have to wait until the number of participating Persons in Need has grown to a significant population. Then we introduce Risk Sharing and Mutual Financial Support.
 
 1. Decentralized Finance: Risk Sharing protocol
 2. Decentralized Finance: Loss Assessment protocol (voters)
