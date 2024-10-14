@@ -10,7 +10,7 @@ Watch the 10-minute video here: https://youtu.be/z1ylfi60ES0
 This is Part 4, describing how we start in Machu Picchu. 
 
 ## How do we start?
-In Part 1, we have seen the pains of humanitarians and the possible solutions using 21st century technologies. [*See Part 1 (pains and solutions) here (link)*](./README_1.md). 
+In Part 1, we have seen the pains of humanitarians and the possible solutions using 21st century technologies. [*See Part 1 (pains and solutions) here (link)*](./README.md). 
 
 In Part 2 we have listed the acute needs of humanitarians actions and how they are currently very imperfectly solved. [* See Part 2 (acute needs) here (link)*](./README_2.md).
 

@@ -3,7 +3,7 @@
 
 ##	What is Machu Picchu?
 
-Machu Picchu is an open-source, collaborative project focused on leveraging 21st-century technologies to improve the livelihoods of vulnerable populations. See here Part 1, the pains and the solutions : [*Part 1 (link)*](./README_1.md)
+Machu Picchu is an open-source, collaborative project focused on leveraging 21st-century technologies to improve the livelihoods of vulnerable populations. See here Part 1, the pains and the solutions : [*Part 1 (link)*](./README.md)
 
 Watch the 10-minute video here: https://youtu.be/z1ylfi60ES0
 
