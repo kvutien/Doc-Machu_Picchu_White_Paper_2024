@@ -1,4 +1,4 @@
-# Project-Machu Picchu White Paper 2024
+# Doc-Machu Picchu White Paper 2024
 *(version OCTOBER 2024)*
 
 ##	What is Machu Picchu?
